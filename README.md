@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Gam's
+- 🌱 Languages : HTML/CSS , Python , Batch , Bash
