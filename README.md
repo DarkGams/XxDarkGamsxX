@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Gam's
-- 🌱 Langages : HTML/CSS , Python , C , Batch , Bash
+- 🌱 Langages : HTML/CSS , Python , C , Batch , Bash , Assembleur
